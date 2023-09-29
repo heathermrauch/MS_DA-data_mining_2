@@ -1,0 +1,120 @@
+prescriptions,drug_class,group,reference
+metformin,Non-sulfonylureas,Non-sulfonylureas,https://www.drugs.com/metformin.html
+boniva,Bisphosphonates,Bisphosphonates,https://www.drugs.com/boniva.html
+benicar,Angiotensin receptor blockers,ARBs,https://www.drugs.com/benicar.html
+cefdinir,Third generation cephalosporins,Antibiotics,https://www.drugs.com/mtm/cefdinir.html
+valaciclovir,Purine nucleosides,Antivirals,https://www.drugs.com/valacyclovir.html
+hydrocodone,"Antitussives, Opioids (narcotic analgesics)",Opioids,https://www.drugs.com/hydrocodone.html
+actonel,Bisphosphonates,Bisphosphonates,https://www.drugs.com/actonel.html
+venlafaxine XR,Serotonin-norepinephrine reuptake inhibitors,SNRIs,https://www.drugs.com/venlafaxine.html
+alendronate,Bisphosphonates,Bisphosphonates,https://www.drugs.com/mtm/alendronate.html
+salmeterol inhaler,Adrenergic bronchodilators,Bronchodilators,https://www.drugs.com/mtm/salmeterol-inhalation.html
+atenolol,Cardioselective beta blockers,Beta Blockers,https://www.drugs.com/atenolol.html
+ciprofloxacin,Quinolones,Antibiotics,https://www.drugs.com/ciprofloxacin.html
+Yaz,Contraceptives,Contraceptives,https://www.drugs.com/yaz.html
+lansoprazole,Proton pump inhibitors,Antacids,https://www.drugs.com/lansoprazole.html
+cyclobenzaprine,Skeletal muscle relaxants,Muscle Relaxants,https://www.drugs.com/cyclobenzaprine.html
+Premarin,Estrogens,Estrogens,https://www.drugs.com/premarin.html
+abilify,Atypical antipsychotics,Antipsychotics,https://www.drugs.com/abilify.html
+celebrex,Cox-2 inhibitors,NSAIDs,https://www.drugs.com/celebrex.html
+fexofenadine,Antihistamines,Antihistamines,https://www.drugs.com/fexofenadine.html
+glipizide,Sulfonylureas,Sulfonylureas,https://www.drugs.com/glipizide.html
+sertraline HCI,Selective serotonin reuptake inhibitors,SSRIs,https://www.drugs.com/sertraline.html
+hydrocortisone 2.5% cream,Topical steroids,Topical steroids,https://www.drugs.com/mtm/hydrocortisone-topical.html
+valsartan,Angiotensin receptor blockers,ARBs,https://www.drugs.com/mtm/valsartan.html
+verapamil SR,"Calcium channel blocking agents, Group IV antiarrhythmics",Calcium Channel Blockers,https://www.drugs.com/verapamil.html
+flovent hfa 110mcg inhaler,Inhaled corticosteroids,Corticosteroids,https://www.drugs.com/mtm/flovent-hfa.html
+atorvastatin,Statins,Statins,https://www.drugs.com/atorvastatin.html
+alprazolam,Benzodiazepines,Benzodiazepines,https://www.drugs.com/alprazolam.html
+albuterol aerosol,Adrenergic bronchodilators,Bronchodilators,https://www.drugs.com/albuterol.html
+finasteride,5-alpha-reductase inhibitors,5-alpha-reductase inhibitors,https://www.drugs.com/mtm/finasteride.html
+triamcinolone Ace topical,Glucocorticoids,Corticosteroids,https://www.drugs.com/triamcinolone.html
+pravastatin,Statins,Statins,https://www.drugs.com/pravastatin.html
+triamterene,Potassium-sparing diuretics,Diuretics,https://www.drugs.com/triamterene.html
+sulfamethoxazole,Sulfonamides,Antibiotics,https://www.drugs.com/mtm/sulfamethoxazole-and-trimethoprim.html
+diazepam,"Benzodiazepine anticonvulsants, Benzodiazepines",Benzodiazepines,https://www.drugs.com/diazepam.html
+promethazine,"Antihistamines, Phenothiazine antiemetics",Antihistamines,https://www.drugs.com/promethazine.html
+potassium Chloride,Minerals and electrolytes,Vitamins and Minerals,https://www.drugs.com/potassium_chloride.html
+spironolactone,"Aldosterone receptor antagonists, Potassium-sparing diuretics",Diuretics,https://www.drugs.com/spironolactone.html
+clonidine HCI,"Antiadrenergic agents, centrally acting","Antiadrenergic agents, centrally acting",https://www.drugs.com/clonidine.html
+levothyroxine sodium,Thyroid drugs,Thyroid drugs,https://www.drugs.com/levothyroxine.html
+paroxetine,Selective serotonin reuptake inhibitors,SSRIs,https://www.drugs.com/paroxetine.html
+trazodone HCI,Phenylpiperazine antidepressants,SSRIs,https://www.drugs.com/trazodone.html
+pregabalin,Gamma-aminobutyric acid analogs,Anticonvulsants,https://www.drugs.com/pregabalin.html
+Duloxetine,Serotonin-norepinephrine reuptake inhibitors,SNRIs,https://www.drugs.com/duloxetine.html
+rosuvastatin,Statins,Statins,https://www.drugs.com/rosuvastatin.html
+cialis,Impotence agents,Impotence agents,https://www.drugs.com/cialis.html
+tamsulosin,Alpha-adrenoreceptor antagonists,Alpha Blockers,https://www.drugs.com/tamsulosin.html
+gabapentin,Gamma-aminobutyric acid analogs,Anticonvulsants,https://www.drugs.com/gabapentin.html
+amitriptyline,Tricyclic antidepressants,Antidepressants,https://www.drugs.com/amitriptyline.html
+hydrochlorothiazide,Thiazide diuretics,Diuretics,https://www.drugs.com/hydrochlorothiazide.html
+glimepiride,Sulfonylureas,Sulfonylureas,https://www.drugs.com/mtm/glimepiride.html
+amphetamine salt combo,CNS stimulants,CNS stimulants,https://www.drugs.com/amphetamine.html
+carisoprodol,Skeletal muscle relaxants,Muscle Relaxants,https://www.drugs.com/carisoprodol.html
+mometasone,Topical steroids,Topical steroids,https://www.drugs.com/mtm/mometasone-topical.html
+pioglitazone,Thiazolidinediones,Thiazolidinediones,https://www.drugs.com/mtm/pioglitazone.html
+clopidogrel,Platelet aggregation inhibitors,Platelet aggregation inhibitors,https://www.drugs.com/mtm/clopidogrel.html
+oxycodone,Opioids (narcotic analgesics),Opioids,https://www.drugs.com/oxycodone.html
+esomeprazole,Proton pump inhibitors,Antacids,https://www.drugs.com/mtm/esomeprazole.html
+topiramate,Carbonic anhydrase inhibitor anticonvulsants,Anticonvulsants,https://www.drugs.com/mtm/topiramate.html
+acetaminophen,Miscellaneous analgesics,Miscellaneous analgesics,https://www.drugs.com/acetaminophen.html
+simvastatin,Statins,Statins,https://www.drugs.com/simvastatin.html
+synthroid,Thyroid drugs,Thyroid drugs,https://www.drugs.com/synthroid.html
+omeprazole,Proton pump inhibitors,Antacids,https://www.drugs.com/omeprazole.html
+levofloxacin,Quinolones,Antibiotics,https://www.drugs.com/levofloxacin.html
+ranitidine,H2 antagonists,Antacids,https://www.drugs.com/ranitidine.html
+clavulanate K+,Beta-lactamase inhibitors,Antibiotics,https://www.drugs.com/amoxicillin_clavulanate.html
+isosorbide mononitrate,Antianginal agents,Nitrates,https://www.drugs.com/isosorbide_mononitrate.html
+codeine,"Antitussives, Opioids (narcotic analgesics)",Opioids,https://www.drugs.com/codeine.html
+benazepril,Angiotensin Converting Enzyme Inhibitors,ACE Inhibitors,https://www.drugs.com/mtm/benazepril.html
+clotrimazole,"Topical antifungals, Vaginal anti-infectives",Antifungals,https://www.drugs.com/mtm/clotrimazole-topical.html
+fluticasone,Inhaled corticosteroids,Corticosteroids,https://www.drugs.com/mtm/fluticasone-inhalation.html
+amphetamine,CNS stimulants,CNS stimulants,https://www.drugs.com/amphetamine.html
+dextroamphetamine XR,CNS stimulants,CNS stimulants,https://www.drugs.com/mtm/dextroamphetamine.html
+carvedilol,Non-cardioselective beta blockers,Beta Blockers,https://www.drugs.com/carvedilol.html
+ibuprophen,Nonsteroidal anti-inflammatory drugs,NSAIDs,https://www.drugs.com/ibuprofen.html
+amlodipine,Calcium channel blocking agents,Calcium Channel Blockers,https://www.drugs.com/amlodipine.html
+diclofenac sodium,Nonsteroidal anti-inflammatory drugs,NSAIDs,https://www.drugs.com/diclofenac.html
+quetiapine,Atypical antipsychotics,Antipsychotics,https://www.drugs.com/quetiapine.html
+fluticasone nasal spray,Nasal steroids,Corticosteroids,https://www.drugs.com/mtm/fluticasone-nasal.html
+allopurinol,"Antigout agents, Antihyperuricemic agents",Antigout Agents,https://www.drugs.com/allopurinol.html
+tramadol,Opioids (narcotic analgesics),Opioids,https://www.drugs.com/tramadol.html
+amoxicillin,Aminopenicillins,Antibiotics,https://www.drugs.com/amoxicillin.html
+trimethoprim DS,Urinary anti-infectives,Antibiotics,https://www.drugs.com/mtm/trimethoprim.html
+escitalopram,Selective serotonin reuptake inhibitors,SSRIs,https://www.drugs.com/escitalopram.html
+prednisone,Glucocorticoids,Corticosteroids,https://www.drugs.com/prednisone.html
+meloxicam,Nonsteroidal anti-inflammatory drugs,NSAIDs,https://www.drugs.com/meloxicam.html
+naproxen,Nonsteroidal anti-inflammatory drugs,NSAIDs,https://www.drugs.com/naproxen.html
+celecoxib,Cox-2 inhibitors,NSAIDs,https://www.drugs.com/celecoxib.html
+cymbalta,Serotonin-norepinephrine reuptake inhibitors,SNRIs,https://www.drugs.com/cymbalta.html
+lorazepam,"Benzodiazepine anticonvulsants, Benzodiazepines, Miscellaneous antiemetics",Benzodiazepines,https://www.drugs.com/lorazepam.html
+lovastatin,Statins,Statins,https://www.drugs.com/mtm/lovastatin.html
+doxycycline hyclate,"Miscellaneous antimalarials, Tetracyclines",Antibiotics,https://www.drugs.com/doxycycline.html
+methylprednisone,Glucocorticoids,Corticosteroids,https://www.drugs.com/methylprednisolone.html
+lantus,Insulin,Insulin,https://www.drugs.com/lantus.html
+metformin HCI,Non-sulfonylureas,Non-sulfonylureas,https://www.drugs.com/metformin.html
+losartan,Angiotensin receptor blockers,ARBs,https://www.drugs.com/losartan.html
+glyburide,Sulfonylureas,Sulfonylureas,https://www.drugs.com/glyburide.html
+albuterol HFA,Adrenergic bronchodilators,Bronchodilators,https://www.drugs.com/albuterol.html
+lisinopril,Angiotensin Converting Enzyme Inhibitors,ACE Inhibitors,https://www.drugs.com/lisinopril.html
+viagra,Impotence agents,Impotence agents,https://www.drugs.com/viagra.html
+folic acid,Vitamins,Vitamins and Minerals,https://www.drugs.com/folic_acid.html
+bupropion sr,"Miscellaneous antidepressants, Smoking cessation agents",Antidepressants,https://www.drugs.com/bupropion.html
+metoprolol tartrate,Cardioselective beta blockers,Beta Blockers,https://www.drugs.com/mtm/metoprolol-tartrate.html
+fenofibrate,Fibric acid derivatives,Fibric acid derivatives,https://www.drugs.com/fenofibrate.html
+crestor,Statins,Statins,https://www.drugs.com/crestor.html
+clonazepam,"Benzodiazepine anticonvulsants, Benzodiazepines",Benzodiazepines,https://www.drugs.com/clonazepam.html
+cephalexin,First generation cephalosporins,Antibiotics,https://www.drugs.com/cephalexin.html
+amphetamine salt combo xr,CNS stimulants,CNS stimulants,https://www.drugs.com/amphetamine.html
+ezetimibe,Cholesterol absorption inhibitors,Statins,https://www.drugs.com/ezetimibe.html
+zolpidem,"Miscellaneous anxiolytics, sedatives and hypnotics",Sedatives,https://www.drugs.com/zolpidem.html
+temezepam,Benzodiazepines,Benzodiazepines,https://www.drugs.com/temazepam.html
+furosemide,Loop diuretics,Diuretics,https://www.drugs.com/furosemide.html
+enalapril,Angiotensin Converting Enzyme Inhibitors,ACE Inhibitors,https://www.drugs.com/enalapril.html
+pantoprazole,Proton pump inhibitors,Antacids,https://www.drugs.com/pantoprazole.html
+metoprolol,Cardioselective beta blockers,Beta Blockers,https://www.drugs.com/metoprolol.html
+azithromycin,Macrolides,Antibiotics,https://www.drugs.com/azithromycin.html
+metoprolol succinate XL,Cardioselective beta blockers,Beta Blockers,https://www.drugs.com/metoprolol.html
+fluconozole,Azole antifungals,Antifungals,https://www.drugs.com/mtm/fluconazole.html
+citalopram,Selective serotonin reuptake inhibitors,SSRIs,https://www.drugs.com/citalopram.html
+fluoxetine HCI,Selective serotonin reuptake inhibitors,SSRIs,https://www.drugs.com/fluoxetine.html
